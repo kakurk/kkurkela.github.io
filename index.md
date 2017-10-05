@@ -1,4 +1,4 @@
-![Headshot](kkurkela.jpeg) 
+<img align="center" src="kkurkela.jpeg" alt="Headshot">
 
 ## Objective
 
