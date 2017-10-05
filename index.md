@@ -8,10 +8,6 @@ I graduated from Cornell University in 2014 with a degree in Human Development a
 
 Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer (Barclay's Premier League) and football (NFL) fan.
 
-## Curriculum Vitae
-
-Curriculum Vitae
-
 ## Past Work Experience
 
 [_Memory Modulation Laboratory_](http://www.thememolab.org/)  
