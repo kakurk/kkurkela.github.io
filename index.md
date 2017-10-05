@@ -1,3 +1,5 @@
+![Headshot](kkurkela.jpeg) 
+
 ## Objective
 
 I am currently looking to go to graduate school to study the cognitive neuroscience of memory.
