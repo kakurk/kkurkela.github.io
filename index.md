@@ -1,9 +1,41 @@
-# Kyle Andrew Kurkela
-
 ## Objective
 
-## Biograph
+I am currently looking to go to graduate school to study the cognitive neuroscience of memory.
 
-## Curricium Vitae
+## Biography
+
+I graduated from Cornell University in 2014 with a degree in Human Development and a concentration in Developmental Behavioral Neuroscience. I spent two years after graduation working as the laboratory manager for the [Cognitive Aging and Neuroimaging Lab](http://canlab.la.psu.edu/) at Penn State University. During my time at Penn State, my research focused on the study of neural architecture underlying false memory. I spent the past two years in the [Memory Modulation Lab](http://www.thememolab.org/) at Boston College, where I continued my work studying the cognitive neuroscience of memory, focusing on the modulation of context and emotion and the neural correlates of memory using fMRI, EEG, and tDCS.
+
+Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer (Barclay's Premier League) and football (NFL) fan.
+
+## Curriculum Vitae
+
+Curriculum Vitae
 
 ## Past Work Experience
+
+_Memory Modulation Laboratory_  
+Dr. Maureen Ritchey  
+Research Specalist  
+July 2016 - Present  
+
+_Cognitive Aging and Neuroimaging Laboratory_  
+Dr. Nancy Dennis  
+Laboratory Manager  
+July 2014 - July 2016  
+
+## Skills
+
+_Programming Languages_  
+Fluent: [MATLAB](https://www.mathworks.com/products/matlab.html), [R/RStudio](https://www.r-project.org/about.html)  
+Proficient: [Unix Bash Shell Scripting](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Javascript](https://www.javascript.com/)  
+Familar: [SPSS Syntax](https://www.ibm.com/products/spss-statistics), [Python](https://www.python.org/)  
+
+_Software_  
+Fluent: SPM8, SPM12 ([software](http://www.fil.ion.ucl.ac.uk/spm/), [github repository example](https://github.com/kkurkela/KyleSPMToolbox)), GingerALE ([software](http://brainmap.org/ale/), [publication](http://www.sciencedirect.com/science/article/pii/S0028393215302463)), [MRIcron](http://people.cas.sc.edu/rorden/mricron/index.html), [Cogent](http://www.vislab.ucl.ac.uk/cogent_2000.php), psychtoolbox ([software](http://psychtoolbox.org/), [github repository example](https://github.com/kkurkela/ICEE)), gPPI ([software](https://www.nitrc.org/projects/gppi), [github repository example](https://github.com/kkurkela/KyleSPMToolbox/tree/master/gPPI)), CoSMoMVPA ([software](http://www.cosmomvpa.org/), [github repository example](https://github.com/kkurkela/FAME-RSA-mean)), [PsPM](http://pspm.sourceforge.net/support/), [git](https://git-scm.com/), [WFU Pickatlas](http://fmri.wfubmc.edu/software/pickatlas), [tidyverse](https://www.tidyverse.org/), [R Markdown](http://rmarkdown.rstudio.com/), [lme4](https://github.com/lme4/lme4)  
+Proficient: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki), [MarsBaR](http://marsbar.sourceforge.net/), [IBM SPSS](https://www.ibm.com/products/spss-statistics), [Mango](http://ric.uthscsa.edu/mango/), [E-Prime](https://pstnet.com/products/e-prime/), [ArtRepair](http://cibsr.stanford.edu/tools/human-brain-project/artrepair-software.html), [conn](https://www.nitrc.org/projects/conn), [jspsych](http://www.jspsych.org/), [LaTeX](https://www.latex-project.org/), [HCP workbench](https://www.humanconnectome.org/software/connectome-workbench)  
+Familar: [EEGLab](https://sccn.ucsd.edu/eeglab/index.php), [Google Sketchup](https://www.sketchup.com/), [PsychoPy2](http://www.psychopy.org/), [PLS](http://pls.rotman-baycrest.on.ca/UserGuide.htm)  
+
+## Current Projects
+
+## Contact
