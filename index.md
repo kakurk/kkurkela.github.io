@@ -51,6 +51,11 @@ Fluent: SPM8, SPM12 ([software](http://www.fil.ion.ucl.ac.uk/spm/), [github repo
 Proficient: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki), [MarsBaR](http://marsbar.sourceforge.net/), [IBM SPSS](https://www.ibm.com/products/spss-statistics), [Mango](http://ric.uthscsa.edu/mango/), [E-Prime](https://pstnet.com/products/e-prime/), [ArtRepair](http://cibsr.stanford.edu/tools/human-brain-project/artrepair-software.html), [conn](https://www.nitrc.org/projects/conn), [jspsych](http://www.jspsych.org/), [LaTeX](https://www.latex-project.org/), [HCP workbench](https://www.humanconnectome.org/software/connectome-workbench)  
 Familar: [EEGLab](https://sccn.ucsd.edu/eeglab/index.php), [Google Sketchup](https://www.sketchup.com/), [PsychoPy2](http://www.psychopy.org/), [PLS](http://pls.rotman-baycrest.on.ca/UserGuide.htm)  
 
+_Data Collection_
+Fluent: functional magnetic resonance imaging (fMRI)
+Proficient: electroencephalography (EEG), skin conductance response (SCR)
+Familiar: transcranial direct current (tDCS) stimulation
+
 ## Current Projects
 
 ## Contact
