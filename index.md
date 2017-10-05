@@ -1,4 +1,6 @@
-<img align="center" src="kkurkela.jpeg" alt="Headshot">
+<p align="center">
+  <img src="kkurkela.jpeg" alt="Headshot"/>
+</p>
 
 ## Objective
 
