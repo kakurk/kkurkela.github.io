@@ -80,8 +80,8 @@ Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennav
 
 ## Contact
 
-Email: kyleakurkela@gmail.com  
+Email: [kyleakurkela@gmail.com](mailto:kyleakurkela@gmail.com)  
 Phone: 631-926-5373  
-Twiter: https://twitter.com/kyleakurkela  
-Github: https://github.com/kkurkela  
-Google Scholar: https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en  
+Twiter: [https://twitter.com/kyleakurkela](https://twitter.com/kyleakurkela)  
+Github: [https://github.com/kkurkela](https://github.com/kkurkela)  
+Google Scholar: [https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en)  
