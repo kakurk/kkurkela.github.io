@@ -14,15 +14,30 @@ Curriculum Vitae
 
 ## Past Work Experience
 
-_Memory Modulation Laboratory_  
+[_Memory Modulation Laboratory_](http://www.thememolab.org/)  
 Dr. Maureen Ritchey  
 Research Specalist  
 July 2016 - Present  
 
-_Cognitive Aging and Neuroimaging Laboratory_  
+[_Cognitive Aging and Neuroimaging Laboratory_](http://canlab.la.psu.edu/)  
 Dr. Nancy Dennis  
 Laboratory Manager  
 July 2014 - July 2016  
+
+[_Laboratory of Brain and Cognition_](http://lbc.human.cornell.edu/Home.html)  
+Dr. Nathan Spreng  
+Undergraduate Research Assistant  
+July 2013 - May 2014  
+
+[_Memory and Neuroscience Laboratory_](https://www.human.cornell.edu/hd/research/labs/memorylab/home)  
+Dr. Richard Brainerd  
+Undergraduate Research Assistant  
+January 2014 - May 2014  
+
+[_Personality, Attachement, and Control Laboratory_](http://people.psych.cornell.edu/~pac_lab/)  
+Dr. Vivian Zayas  
+Co-Head EEG Research Assistant  
+Septemeber 2012 - May 2014  
 
 ## Skills
 
