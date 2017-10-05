@@ -56,6 +56,30 @@ _Data Collection_
 **Proficient**: electroencephalography (EEG), skin conductance response (SCR)  
 **Familiar**: transcranial direct current (tDCS) stimulation  
 
+## Publications
+
+**Kurkela, K.A.** & Dennis, N.A. (2016). Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis. _Neuropsychologia_, 81: 149-167.  
+
+Allen, C., **Kurkela, K.A.**, & Dennis, N.A. (in prep). The effect of cue duration on directed forgetting performance in healthy aging.  
+
+Turney, I.T., **Kurkela, K.A.**, & Dennis, N.A. (in prep). Understanding the role of perceptual relatedness to false 
+memories in aging.  
+
+## Conference Presentations
+
+Spreng, R.N., DuPre, E., Selarka, D., Garcia, J., Gojkovic, S., Mildner, J., **Kurkela, K.** & Turner, G.R. (April, 2014). Contextual relevant default network activity facilitates working memory performance. Cognitive Neuroscience Society Annual Meeting, Boston, MA, USA.  
+
+Venkatesan, U., Dennis, N.A., **Kurkela, K.**, & Cabeza, R (February, 2016). Neuroimaging Source Memory in 
+Aging: Putting the Context Memory Deficit in Context. Poster presented at International Neuropsychological Society Annual Meeting, Boston, MA, USA.  
+
+**Kurkela, K.A.** & Dennis, N.A. (April, 2016). Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis. Poster presented at the Cognitive Neuroscience Society Annual Meeting, New York, NY, USA.  
+
+Turney, I. T., **Kurkela, K.A.**, Dennis, N.A. (April, 2016). Understanding the role of perceptual relatedness to false memories in aging. Poster presented at  the Cognitive Aging Conference, Atlanta, GA, USA.  
+
+Samide, R., **Kurkela, K. A.**, Ritchey, M. (November 2017). Effects of contextual reinstatement on retrieval of item-emotion associations. Abstract submitted for the annual meeting of the Society for Neuroscience, Washington D.C., USA.  
+
+Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennavasin, A., Diaz, M.T., & Dennis, N.A. (November 2017). Common neural substrates support visually guided force control and working memory in healthy older adults. Abstract submitted for the annual meeting of the Society for Neuroscience, Washington D.C., USA.  
+
 ## Current Projects
 
 ## Contact
