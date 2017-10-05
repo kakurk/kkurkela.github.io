@@ -42,19 +42,19 @@ Septemeber 2012 - May 2014
 ## Skills
 
 _Programming Languages_  
-Fluent: [MATLAB](https://www.mathworks.com/products/matlab.html), [R/RStudio](https://www.r-project.org/about.html)  
-Proficient: [Unix Bash Shell Scripting](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Javascript](https://www.javascript.com/)  
-Familar: [SPSS Syntax](https://www.ibm.com/products/spss-statistics), [Python](https://www.python.org/)  
+**Fluent**: [MATLAB](https://www.mathworks.com/products/matlab.html), [R/RStudio](https://www.r-project.org/about.html)  
+**Proficient**: [Unix Bash Shell Scripting](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Javascript](https://www.javascript.com/)  
+**Familar**: [SPSS Syntax](https://www.ibm.com/products/spss-statistics), [Python](https://www.python.org/)  
 
 _Software_  
-Fluent: SPM8, SPM12 ([software](http://www.fil.ion.ucl.ac.uk/spm/), [github repository example](https://github.com/kkurkela/KyleSPMToolbox)), GingerALE ([software](http://brainmap.org/ale/), [publication](http://www.sciencedirect.com/science/article/pii/S0028393215302463)), [MRIcron](http://people.cas.sc.edu/rorden/mricron/index.html), [Cogent](http://www.vislab.ucl.ac.uk/cogent_2000.php), psychtoolbox ([software](http://psychtoolbox.org/), [github repository example](https://github.com/kkurkela/ICEE)), gPPI ([software](https://www.nitrc.org/projects/gppi), [github repository example](https://github.com/kkurkela/KyleSPMToolbox/tree/master/gPPI)), CoSMoMVPA ([software](http://www.cosmomvpa.org/), [github repository example](https://github.com/kkurkela/FAME-RSA-mean)), [PsPM](http://pspm.sourceforge.net/support/), [git](https://git-scm.com/), [WFU Pickatlas](http://fmri.wfubmc.edu/software/pickatlas), [tidyverse](https://www.tidyverse.org/), [R Markdown](http://rmarkdown.rstudio.com/), [lme4](https://github.com/lme4/lme4)  
-Proficient: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki), [MarsBaR](http://marsbar.sourceforge.net/), [IBM SPSS](https://www.ibm.com/products/spss-statistics), [Mango](http://ric.uthscsa.edu/mango/), [E-Prime](https://pstnet.com/products/e-prime/), [ArtRepair](http://cibsr.stanford.edu/tools/human-brain-project/artrepair-software.html), [conn](https://www.nitrc.org/projects/conn), [jspsych](http://www.jspsych.org/), [LaTeX](https://www.latex-project.org/), [HCP workbench](https://www.humanconnectome.org/software/connectome-workbench)  
-Familar: [EEGLab](https://sccn.ucsd.edu/eeglab/index.php), [Google Sketchup](https://www.sketchup.com/), [PsychoPy2](http://www.psychopy.org/), [PLS](http://pls.rotman-baycrest.on.ca/UserGuide.htm)  
+**Fluent**: SPM8, SPM12 ([software](http://www.fil.ion.ucl.ac.uk/spm/), [github repository example](https://github.com/kkurkela/KyleSPMToolbox)), GingerALE ([software](http://brainmap.org/ale/), [publication](http://www.sciencedirect.com/science/article/pii/S0028393215302463)), [MRIcron](http://people.cas.sc.edu/rorden/mricron/index.html), [Cogent](http://www.vislab.ucl.ac.uk/cogent_2000.php), psychtoolbox ([software](http://psychtoolbox.org/), [github repository example](https://github.com/kkurkela/ICEE)), gPPI ([software](https://www.nitrc.org/projects/gppi), [github repository example](https://github.com/kkurkela/KyleSPMToolbox/tree/master/gPPI)), CoSMoMVPA ([software](http://www.cosmomvpa.org/), [github repository example](https://github.com/kkurkela/FAME-RSA-mean)), [PsPM](http://pspm.sourceforge.net/support/), [git](https://git-scm.com/), [WFU Pickatlas](http://fmri.wfubmc.edu/software/pickatlas), [tidyverse](https://www.tidyverse.org/), [R Markdown](http://rmarkdown.rstudio.com/), [lme4](https://github.com/lme4/lme4)  
+**Proficient**: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki), [MarsBaR](http://marsbar.sourceforge.net/), [IBM SPSS](https://www.ibm.com/products/spss-statistics), [Mango](http://ric.uthscsa.edu/mango/), [E-Prime](https://pstnet.com/products/e-prime/), [ArtRepair](http://cibsr.stanford.edu/tools/human-brain-project/artrepair-software.html), [conn](https://www.nitrc.org/projects/conn), [jspsych](http://www.jspsych.org/), [LaTeX](https://www.latex-project.org/), [HCP workbench](https://www.humanconnectome.org/software/connectome-workbench)  
+**Familar**: [EEGLab](https://sccn.ucsd.edu/eeglab/index.php), [Google Sketchup](https://www.sketchup.com/), [PsychoPy2](http://www.psychopy.org/), [PLS](http://pls.rotman-baycrest.on.ca/UserGuide.htm)  
 
 _Data Collection_  
-Fluent: functional magnetic resonance imaging (fMRI)  
-Proficient: electroencephalography (EEG), skin conductance response (SCR)  
-Familiar: transcranial direct current (tDCS) stimulation  
+**Fluent**: functional magnetic resonance imaging (fMRI)  
+**Proficient**: electroencephalography (EEG), skin conductance response (SCR)  
+**Familiar**: transcranial direct current (tDCS) stimulation  
 
 ## Current Projects
 
