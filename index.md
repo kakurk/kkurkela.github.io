@@ -2,10 +2,6 @@
   <img src="kkurkela.jpeg" alt="Headshot"/>
 </p>
 
-## Objective
-
-I am currently looking to go to graduate school to study the cognitive neuroscience of memory.
-
 ## Biography
 
 I graduated from Cornell University in 2014 with a degree in Human Development and a concentration in Developmental Behavioral Neuroscience. I spent two years after graduation working as the laboratory manager for the [Cognitive Aging and Neuroimaging Lab](http://canlab.la.psu.edu/) at Penn State University. During my time at Penn State, my research focused on the study of neural architecture underlying false memory. I spent the past two years in the [Memory Modulation Lab](http://www.thememolab.org/) at Boston College, where I continued my work studying the cognitive neuroscience of memory, focusing on the modulation of context and emotion and the neural correlates of memory using fMRI, EEG, and tDCS.
@@ -62,14 +58,14 @@ _Data Collection_
 
 Allen, C., **Kurkela, K.A.**, & Dennis, N.A. (in prep). The effect of cue duration on directed forgetting performance in healthy aging.  
 
-Turney, I.T., **Kurkela, K.A.**, & Dennis, N.A. (in prep). Understanding the role of perceptual relatedness to false 
+Turney, I.T., **Kurkela, K.A.**, & Dennis, N.A. (in prep). Understanding the role of perceptual relatedness to false
 memories in aging.  
 
 ## Conference Presentations
 
 Spreng, R.N., DuPre, E., Selarka, D., Garcia, J., Gojkovic, S., Mildner, J., **Kurkela, K.** & Turner, G.R. (April, 2014). Contextual relevant default network activity facilitates working memory performance. Cognitive Neuroscience Society Annual Meeting, Boston, MA, USA.  
 
-Venkatesan, U., Dennis, N.A., **Kurkela, K.**, & Cabeza, R (February, 2016). Neuroimaging Source Memory in 
+Venkatesan, U., Dennis, N.A., **Kurkela, K.**, & Cabeza, R (February, 2016). Neuroimaging Source Memory in
 Aging: Putting the Context Memory Deficit in Context. Poster presented at International Neuropsychological Society Annual Meeting, Boston, MA, USA.  
 
 **Kurkela, K.A.** & Dennis, N.A. (April, 2016). Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis. Poster presented at the Cognitive Neuroscience Society Annual Meeting, New York, NY, USA.  
