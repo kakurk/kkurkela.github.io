@@ -4,9 +4,11 @@
 
 ## Biography
 
-I graduated from Cornell University in 2014 with a degree in Human Development and a concentration in Developmental Behavioral Neuroscience. I spent two years after graduation working as the laboratory manager for the Cognitive Aging and Neuroimaging Lab at Penn State University. During my time at Penn State, my research focused on the study of neural architecture underlying false memory. I spent the past two years in the Memory Modulation Lab at Boston College, where I continued my work studying the cognitive neuroscience of memory, focusing on the modulation of context and emotion and the neural correlates of memory using fMRI, EEG, and tDCS.
+I graduated from Cornell University in 2014 with a degree in Human Development and a concentration in Developmental Behavioral Neuroscience. I am interested in studying the cognitive neuroscience of memory, particularly on false memory, associative memory, emotion, and context. I study the neural correlates of these phenomena using fMRI, EEG, and tDCS.
 
-Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer (Barclay's Premier League) and football (NFL) fan.
+I also have a strong interest in the replicability "crisis" in psychological science, particularly in the use of pre-registrations, open data, and open, version controlled code to increase replicability in psychology and cognitive neuroscience.  
+
+Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer (Barclay's Premier League) and football (NFL) fan.  
 
 ## Past Work Experience
 
