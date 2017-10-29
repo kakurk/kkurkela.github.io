@@ -55,8 +55,8 @@ _Programming Languages_
 **Familiar**: Python  
 
 _Software_  
-**Fluent**: SPM ([example](https://github.com/kkurkela/KyleSPMToolbox)), GingerALE ([publication](http://www.sciencedirect.com/science/article/pii/S0028393215302463)), MRIcron, Cogent, psychtoolbox ([example](https://github.com/kkurkela/ICEE)), gPPI ([example](https://github.com/kkurkela/KyleSPMToolbox/tree/master/gPPI)), CoSMoMVPA ([example](https://github.com/kkurkela/FAME-RSA-mean)), PsPM, git, WFU Pickatlas, tidyverse, R Markdown, lme4    
-**Proficient**: FSL, MarsBaR, IBM SPSS, Mango, E-Prime, ArtRepair, conn, jspsych, LaTeX, HCP workbench  
+**Fluent**: SPM ([example](https://github.com/kkurkela/KyleSPMToolbox)), GingerALE ([publication](http://www.sciencedirect.com/science/article/pii/S0028393215302463)), MRIcron, Cogent, psychtoolbox ([example](https://github.com/kkurkela/ICEE)), gPPI ([example](https://github.com/kkurkela/KyleSPMToolbox/tree/master/gPPI)), CoSMoMVPA ([example](https://github.com/kkurkela/FAME-RSA)), PsPM ([example](https://github.com/kakurk/memolab-psychophys-pipeline)), git, WFU Pickatlas, tidyverse, R Markdown, lme4  
+**Proficient**: FSL, MarsBaR, IBM SPSS, Mango, E-Prime, ArtRepair ([example](https://github.com/memobc/memolab-fmri-qa)), conn, jspsych, LaTeX ([example](https://github.com/kkurkela/CDur)), HCP workbench  
 **Familiar**: EEGLab, Google Sketchup, PsychoPy2, PLS  
 
 _Data Collection_  
