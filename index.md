@@ -68,10 +68,11 @@ _Data Collection_
 
 **Kurkela, K.A.** & Dennis, N.A. (2016). [Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis](http://www.sciencedirect.com/science/article/pii/S0028393215302463). _Neuropsychologia_, 81: 149-167.  
 
-Allen, C., **Kurkela, K.A.**, & Dennis, N.A. (in prep). The effect of cue duration on directed forgetting performance in healthy aging.  
+**Kurkela, K.A.**, Allen, C., & Dennis, N.A. (in prep). The effect of cue duration on directed forgetting performance in healthy aging.  
 
-Turney, I.T., **Kurkela, K.A.**, & Dennis, N.A. (in prep). Understanding the role of perceptual relatedness to false
-memories in aging.  
+Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennavasin, A., Diaz, M.T., & Dennis, N.A. (In prep). Common neural substrates support visually guided force control and working memory in healthy older adults.   
+
+**Kurkela, K.A.**, Chamberlain, J. D., & Dennis, N. A. (in prep). Representational similarity in false memory.
 
 ## Conference Presentations
 
