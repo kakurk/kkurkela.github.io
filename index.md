@@ -4,7 +4,7 @@
 
 ## Biography
 
-I graduated from Cornell University in 2014 with a degree in Human Development and a concentration in Developmental Behavioral Neuroscience. I spent two years after graduation working as the laboratory manager for the [Cognitive Aging and Neuroimaging Lab](http://canlab.la.psu.edu/) at Penn State University. During my time at Penn State, my research focused on the study of neural architecture underlying false memory. I spent the past two years in the [Memory Modulation Lab](http://www.thememolab.org/) at Boston College, where I continued my work studying the cognitive neuroscience of memory, focusing on the modulation of context and emotion and the neural correlates of memory using fMRI, EEG, and tDCS.
+I graduated from Cornell University in 2014 with a degree in Human Development and a concentration in Developmental Behavioral Neuroscience. I spent two years after graduation working as the laboratory manager for the Cognitive Aging and Neuroimaging Lab at Penn State University. During my time at Penn State, my research focused on the study of neural architecture underlying false memory. I spent the past two years in the Memory Modulation Lab at Boston College, where I continued my work studying the cognitive neuroscience of memory, focusing on the modulation of context and emotion and the neural correlates of memory using fMRI, EEG, and tDCS.
 
 Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer (Barclay's Premier League) and football (NFL) fan.
 
@@ -15,25 +15,37 @@ Dr. Maureen Ritchey
 Research Specialist  
 July 2016 - Present  
 
+I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab. I am currently responsible for the creation of new analysis pipelines (example, example, example), running and analyzing behavioral experiments (example, example, example), as well as developing a protocol for running a transcranial direct current stimulation (tDCS) study.
+
 [_Cognitive Aging and Neuroimaging Laboratory_](http://canlab.la.psu.edu/)  
 Dr. Nancy Dennis  
 Laboratory Manager  
 July 2014 - July 2016  
+
+I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an NSF funded study on false memory in aging. In addition, I was able to work with Dr. Dennis and others on 1.) a meta-analysis of the false memory literature 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control 4.) a new analysis of an old dataset on source memory in aging and finally 5.) writing up a previously complete experiment on directed forgetting in aging for publication.
+
+I presently serve as a part-time methods/programming consultant for the lab, assisting with the maintenance and writing of stimulus presentation (using psychtoolbox) and fMRI preprocessing and analysis code (using SPM).
 
 [_Laboratory of Brain and Cognition_](http://lbc.human.cornell.edu/Home.html)  
 Dr. Nathan Spreng  
 Undergraduate Research Assistant  
 July 2013 - May 2014  
 
+I spent the entirety of my senior year working in Dr. Nathan Spreng's Laboratory of Brain and Cognition, where I assisted in data analysis and data collection. Specifically, I ran a first level model on 25 subjects the lab collected using SPM's batch editor GUI. I also worked with other undergraduate RAs to write a MATLAB script to extract beta-estimates using the Marsbar toolbox. I also helped collect EEG data.  
+
 [_Memory and Neuroscience Laboratory_](https://www.human.cornell.edu/hd/research/labs/memorylab/home)  
-Dr. Richard Brainerd  
+Dr. Charles Brainerd  
 Undergraduate Research Assistant  
 January 2014 - May 2014  
 
-[_Personality, Attachement, and Control Laboratory_](http://people.psych.cornell.edu/~pac_lab/)  
+I spent the last semester of my senior year working in Dr. Charles Brainerd's Memory and Neuroscience Lab. While in lab, I was put on a project where I was asked to figure out how to use multiple imputation in SPSS to analyze a large online experiment with lots of missing data. I also took part in a weekly directed reading led by Dr. Brainerd on Memory and Aging.  
+
+[_Personality, Attachment, and Control Laboratory_](http://people.psych.cornell.edu/~pac_lab/)  
 Dr. Vivian Zayas  
 Co-Head EEG Research Assistant  
-Septemeber 2012 - May 2014  
+September 2012 - May 2014  
+
+I spent my junior and senior years working in the PAC lab, where I held the title of Co-Head EEG RA. In the PAC lab, I served as a confederate in a variety of behavioral psychology experiments, specifically in studies looking at social exclusion using the odd-ball paradigm. I was also in charge of scheduling and running EEG participants, maintaining the EEG equipment, rejecting artifactual components in ICA, and for training and supervising other RAs to run EEG experiments.  
 
 ## Skills
 
