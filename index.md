@@ -50,14 +50,14 @@ I spent my junior and senior years working in the PAC lab, where I held the titl
 ## Skills
 
 _Programming Languages_  
-**Fluent**: [MATLAB](https://www.mathworks.com/products/matlab.html), [R/RStudio](https://www.r-project.org/about.html)  
-**Proficient**: [Unix Bash Shell Scripting](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [Javascript](https://www.javascript.com/)  
-**Familiar**: [Python](https://www.python.org/)  
+**Fluent**: MATLAB, R/RStudio  
+**Proficient**: Unix Bash Shell Scripting, Javascript  
+**Familiar**: Python  
 
 _Software_  
-**Fluent**: [SPM](http://www.fil.ion.ucl.ac.uk/spm/) ([github repository example](https://github.com/kkurkela/KyleSPMToolbox)), [GingerALE](http://brainmap.org/ale/) ([publication](http://www.sciencedirect.com/science/article/pii/S0028393215302463)), [MRIcron](http://people.cas.sc.edu/rorden/mricron/index.html), [Cogent](http://www.vislab.ucl.ac.uk/cogent_2000.php), [psychtoolbox](http://psychtoolbox.org/) ([github repository example](https://github.com/kkurkela/ICEE)), [gPPI](https://www.nitrc.org/projects/gppi) ([github repository example](https://github.com/kkurkela/KyleSPMToolbox/tree/master/gPPI)), [CoSMoMVPA](http://www.cosmomvpa.org/) ([github repository example](https://github.com/kkurkela/FAME-RSA-mean)), [PsPM](http://pspm.sourceforge.net/support/), [git](https://git-scm.com/), [WFU Pickatlas](http://fmri.wfubmc.edu/software/pickatlas), [tidyverse](https://www.tidyverse.org/), [R Markdown](http://rmarkdown.rstudio.com/), [lme4](https://github.com/lme4/lme4)  
-**Proficient**: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki), [MarsBaR](http://marsbar.sourceforge.net/), [IBM SPSS](https://www.ibm.com/products/spss-statistics), [Mango](http://ric.uthscsa.edu/mango/), [E-Prime](https://pstnet.com/products/e-prime/), [ArtRepair](http://cibsr.stanford.edu/tools/human-brain-project/artrepair-software.html), [conn](https://www.nitrc.org/projects/conn), [jspsych](http://www.jspsych.org/), [LaTeX](https://www.latex-project.org/), [HCP workbench](https://www.humanconnectome.org/software/connectome-workbench)  
-**Familiar**: [EEGLab](https://sccn.ucsd.edu/eeglab/index.php), [Google Sketchup](https://www.sketchup.com/), [PsychoPy2](http://www.psychopy.org/), [PLS](http://pls.rotman-baycrest.on.ca/UserGuide.htm)  
+**Fluent**: SPM ([example](https://github.com/kkurkela/KyleSPMToolbox)), GingerALE ([publication](http://www.sciencedirect.com/science/article/pii/S0028393215302463)), MRIcron, Cogent, psychtoolbox ([example](https://github.com/kkurkela/ICEE)), gPPI ([example](https://github.com/kkurkela/KyleSPMToolbox/tree/master/gPPI)), CoSMoMVPA ([example](https://github.com/kkurkela/FAME-RSA-mean)), PsPM, git, WFU Pickatlas, tidyverse, R Markdown, lme4    
+**Proficient**: FSL, MarsBaR, IBM SPSS, Mango, E-Prime, ArtRepair, conn, jspsych, LaTeX, HCP workbench  
+**Familiar**: EEGLab, Google Sketchup, PsychoPy2, PLS  
 
 _Data Collection_  
 **Fluent**: functional magnetic resonance imaging (fMRI)  
@@ -66,7 +66,7 @@ _Data Collection_
 
 ## Publications
 
-**Kurkela, K.A.** & Dennis, N.A. (2016). Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis. _Neuropsychologia_, 81: 149-167.  
+**Kurkela, K.A.** & Dennis, N.A. (2016). [Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis](http://www.sciencedirect.com/science/article/pii/S0028393215302463). _Neuropsychologia_, 81: 149-167.  
 
 Allen, C., **Kurkela, K.A.**, & Dennis, N.A. (in prep). The effect of cue duration on directed forgetting performance in healthy aging.  
 
