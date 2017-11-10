@@ -32,9 +32,9 @@ Dr. Nancy Dennis
 Laboratory Manager  
 July 2014 - July 2016  
 
-I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an NSF funded study on false memory in aging. In addition, I was able to work with Dr. Dennis and others on 1.) a activation likelihood estimation meta-analysis on false memory 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control 4.) a new analysis of an old dataset on source memory in aging and finally 5.) writing up a previously complete experiment on directed forgetting in aging.
+I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an NSF funded study on false memory in aging. In addition, I was able to work with Dr. Dennis and others on: 1.) a activation likelihood estimation meta-analysis on false memory, 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center, 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control, 4.) a new analysis of an old dataset on source memory in aging, and finally 5.) writing up a previously completed experiment on directed forgetting in aging.
 
-I also presently serve as a part-time methods/programming consultant for the lab, assisting with the maintenance and writing of stimulus presentation and fMRI preprocessing and analysis code.
+I also presently serve as a part-time methods/programming consultant for the lab, assisting with the maintenance and writing of stimulus presentation and fMRI preprocessing and analysis code ([example](https://github.com/kkurkela/ICEE), [example](https://github.com/kkurkela/FAME-RSA)).
 
 [_Laboratory of Brain and Cognition_](http://lbc.human.cornell.edu/Home.html)  
 Dr. Nathan Spreng  
