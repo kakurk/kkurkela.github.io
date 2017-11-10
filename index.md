@@ -7,7 +7,7 @@
 Email: [kyleakurkela@gmail.com](mailto:kyleakurkela@gmail.com)  
 Phone: 631-926-5373  
 Twitter: [twitter.com/kyleakurkela](https://twitter.com/kyleakurkela)  
-Github: [github.com/kkurkela](https://github.com/kkurkela) (personal) [github.com/kakurk](https://github.com/kakurk) (Boston College)  
+Github: @kkurkela (personal) [github.com/kakurk](https://github.com/kakurk) (Boston College)  
 Google Scholar: [scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en)  
 
 ## Biography
