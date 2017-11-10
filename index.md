@@ -101,11 +101,11 @@ Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennav
 
 ## Current Projects
 
-_Effects of Emotion on Associative Memory_ (`Andromeda`)  
-This project is currently trying to study the influences of emotion of associative memory, specifically on associations that are a degree of separation away from the original emotional image in an network of associations.  
-
-_Effects of Emotion on Context Memory_ (`MemoCon`, `MemoMix`)  
-These projects are currently exploring the influence of emotional stimuli on memory for context, specifically when emotionally negative images are grouped together versus randomly intermixed (`MemoMix`) or when the background context is shifted versus reinstated during retrieval (`MemoCon`).  
+_Effects of Emotion on Context Memory_    
+This project is currently exploring the influence of emotional stimuli on memory for context, specifically when emotionally negative images are grouped together versus randomly intermixed and when the background context is shifted versus reinstated during retrieval (see [pre-registration](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d) for more information).  
 
 _Transcranial Direct Current Stimulation of Memory Networks_  
 This project is currently trying to see if it is possible to modulate item and contextual memory performance using network targeted tDCS, particularly seeing if there is an interaction with Emotion.  
+
+_Effects of Emotion on Associative Memory_    
+This project is currently trying to study the influences of emotion of associative memory, specifically on associations that are a degree of separation away from the original emotional image in a network of associations.  
