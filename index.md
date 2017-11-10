@@ -7,7 +7,7 @@
 Email: [kyleakurkela@gmail.com](mailto:kyleakurkela@gmail.com)  
 Phone: 631-926-5373  
 Twitter: [twitter.com/kyleakurkela](https://twitter.com/kyleakurkela)  
-Github: @kkurkela (personal) [github.com/kakurk](https://github.com/kakurk) (Boston College)  
+Github: @kkurkela (personal) @kakurk (Boston College)  
 Google Scholar: [scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en)  
 
 ## Biography
@@ -21,11 +21,11 @@ Outside of the lab I love to ski, play soccer, run, read a good book, and I am a
 ## Past Work Experience
 
 [_Memory Modulation Laboratory_](http://www.thememolab.org/)  
-Dr. Maureen Ritchey  
+Dr. Maureen Ritchey (@ritcheym)
 Research Specialist  
 July 2016 - Present  
 
-I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab. I am responsible for the creation and maintenance of custom analysis pipelines (example), running and analyzing behavioral experiments, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) study.
+I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab (@memobc). I am responsible for the creation and maintenance of custom analysis pipelines (example), running and analyzing behavioral experiments, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) study.
 
 [_Cognitive Aging and Neuroimaging Laboratory_](http://canlab.la.psu.edu/)  
 Dr. Nancy Dennis  
