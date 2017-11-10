@@ -108,4 +108,4 @@ _Transcranial Direct Current Stimulation of Memory Networks_
 This project is currently trying to see if it is possible to modulate item and contextual memory performance using network targeted tDCS, particularly seeing if there is an interaction with Emotion.  
 
 _Effects of Emotion on Associative Memory_    
-This project is currently trying to study the influences of emotion of associative memory, specifically on associations that are a degree of separation away from the original emotional image in a network of associations.  
+This project is currently trying to study the influences of emotion of associative memory, specifically on overlapping associations that can be integrated into "events".  
