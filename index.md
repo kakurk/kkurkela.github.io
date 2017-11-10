@@ -14,7 +14,7 @@ Google Scholar: [scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://s
 
 I graduated from Cornell University in 2014 with a degree in Human Development with a concentration in Developmental Behavioral Neuroscience. I am interested in studying the cognitive neuroscience of memory. Within memory, I am particularly interested in the study of false memory, associative memory, emotional and contextual influences, and event cognition. I am interested in the study of the neural correlates of these phenomena using non-invasive techniques such as fMRI, EEG, and tDCS.  
 
-I also have a particularly strong interest in helping to solve the replicability "crisis" in psychological science. I am interested in the use of pre-registrations ([example](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)), open data, and open source, version controlled code to increase replicability in psychology and cognitive neuroscience.  
+I also have a particularly strong interest in helping to solve the replicability "crisis" in psychological science. I am interested in the use of pre-registrations ([example](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)), open data, and open source, version controlled code ([examples](https://github.com/kkurkela)) to increase replicability in psychology and cognitive neuroscience.  
 
 Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer fan (Barclay's Premier League, USMNT, USWNT).  
 
