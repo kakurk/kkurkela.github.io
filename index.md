@@ -2,13 +2,21 @@
   <img src="kkurkela.jpeg" alt="Headshot"/>
 </p>
 
+## Contact
+
+Email: [kyleakurkela@gmail.com](mailto:kyleakurkela@gmail.com)  
+Phone: 631-926-5373  
+Twitter: [twitter.com/kyleakurkela](https://twitter.com/kyleakurkela)  
+Github: [github.com/kkurkela](https://github.com/kkurkela) (personal) [github.com/kakurk](https://github.com/kakurk) (Boston College)  
+Google Scholar: [scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en)  
+
 ## Biography
 
-I graduated from Cornell University in 2014 with a degree in Human Development and a concentration in Developmental Behavioral Neuroscience. I am interested in studying the cognitive neuroscience of memory, particularly on false memory, associative memory, emotion, and context. I study the neural correlates of these phenomena using fMRI, EEG, and tDCS.
+I graduated from Cornell University in 2014 with a degree in Human Development with a concentration in Developmental Behavioral Neuroscience. I am interested in studying the cognitive neuroscience of memory. Within memory, I am particularly interested in the study of false memory, associative memory, emotional and contextual influences, and event cognition. I am interested in the study of the neural correlates of these phenomena using non-invasive techniques such as fMRI, EEG, and tDCS.  
 
-I also have a strong interest in the replicability "crisis" in psychological science, particularly in the use of pre-registrations, open data, and open, version controlled code to increase replicability in psychology and cognitive neuroscience.  
+I also have a particularly strong interest in helping to solve the replicability "crisis" in psychological science. I am interested in the use of pre-registrations, open data, and open source, version controlled code to increase replicability in psychology and cognitive neuroscience.  
 
-Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer (Barclay's Premier League) and football (NFL) fan.  
+Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer fan (Barclay's Premier League, USMNT, USWNT).  
 
 ## Past Work Experience
 
@@ -17,16 +25,16 @@ Dr. Maureen Ritchey
 Research Specialist  
 July 2016 - Present  
 
-I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab. I am currently responsible for the creation of new analysis pipelines (example, example, example), running and analyzing behavioral experiments (example, example, example), as well as developing a protocol for running a transcranial direct current stimulation (tDCS) study.
+I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab. I am responsible for the creation and maintenance of custom analysis pipelines (example), running and analyzing behavioral experiments, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) study.
 
 [_Cognitive Aging and Neuroimaging Laboratory_](http://canlab.la.psu.edu/)  
 Dr. Nancy Dennis  
 Laboratory Manager  
 July 2014 - July 2016  
 
-I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an NSF funded study on false memory in aging. In addition, I was able to work with Dr. Dennis and others on 1.) a meta-analysis of the false memory literature 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control 4.) a new analysis of an old dataset on source memory in aging and finally 5.) writing up a previously complete experiment on directed forgetting in aging for publication.
+I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an NSF funded study on false memory in aging. In addition, I was able to work with Dr. Dennis and others on 1.) a activation likelihood estimation meta-analysis on false memory 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control 4.) a new analysis of an old dataset on source memory in aging and finally 5.) writing up a previously complete experiment on directed forgetting in aging.
 
-I presently serve as a part-time methods/programming consultant for the lab, assisting with the maintenance and writing of stimulus presentation (using psychtoolbox) and fMRI preprocessing and analysis code (using SPM).
+I also presently serve as a part-time methods/programming consultant for the lab, assisting with the maintenance and writing of stimulus presentation and fMRI preprocessing and analysis code.
 
 [_Laboratory of Brain and Cognition_](http://lbc.human.cornell.edu/Home.html)  
 Dr. Nathan Spreng  
@@ -47,7 +55,7 @@ Dr. Vivian Zayas
 Co-Head EEG Research Assistant  
 September 2012 - May 2014  
 
-I spent my junior and senior years working in the PAC lab, where I held the title of Co-Head EEG RA. In the PAC lab, I served as a confederate in a variety of behavioral psychology experiments, specifically in studies looking at social exclusion using the odd-ball paradigm. I was also in charge of scheduling and running EEG participants, maintaining the EEG equipment, rejecting artifactual components in ICA, and for training and supervising other RAs to run EEG experiments.  
+I spent my junior and senior years working in the PAC lab, where I held the title of Co-Head EEG RA. In the PAC lab, I served as a confederate in a variety of behavioral psychology experiments, specifically in studies looking at social exclusion using the odd-ball paradigm. I was also in charge of scheduling and running EEG participants, maintaining the EEG equipment, rejecting artifactual components using ICA, and for training other RAs to run EEG experiments.  
 
 ## Skills
 
@@ -72,9 +80,9 @@ _Data Collection_
 
 **Kurkela, K.A.**, Allen, C., & Dennis, N.A. (in prep). The effect of cue duration on directed forgetting performance in healthy aging.  
 
-Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennavasin, A., Diaz, M.T., & Dennis, N.A. (In prep). Common neural substrates support visually guided force control and working memory in healthy older adults.   
+Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennavasin, A., Diaz, M.T., & Dennis, N.A. (in prep). Common neural substrates support visually guided force control and working memory in healthy older adults.   
 
-**Kurkela, K.A.**, Chamberlain, J. D., & Dennis, N. A. (in prep). Representational similarity in false memory.
+Diaz, M. T., Taber-Thomas, B, Bai, X. X., **Kurkela, K. A.**, Dennis, N. A., Perez-Edgar, K., Hillary, F. (in prep). Reliability of Functional Imaging Measurements Before and After a Siemens Scanner Upgrade.
 
 ## Conference Presentations
 
@@ -97,15 +105,7 @@ _Effects of Emotion on Associative Memory_ (`Andromeda`)
 This project is currently trying to study the influences of emotion of associative memory, specifically on associations that are a degree of separation away from the original emotional image in an network of associations.  
 
 _Effects of Emotion on Context Memory_ (`MemoCon`, `MemoMix`)  
-These projects are currently exploring the influence of emotional stimuli on context memory, specifically when emotionally negative images are grouped together versus randomly intermixed (`MemoMix`) or when the background context is shifted versus reinstated during retrieval (`MemoCon`).  
+These projects are currently exploring the influence of emotional stimuli on memory for context, specifically when emotionally negative images are grouped together versus randomly intermixed (`MemoMix`) or when the background context is shifted versus reinstated during retrieval (`MemoCon`).  
 
 _Transcranial Direct Current Stimulation of Memory Networks_  
 This project is currently trying to see if it is possible to modulate item and contextual memory performance using network targeted tDCS, particularly seeing if there is an interaction with Emotion.  
-
-## Contact
-
-Email: [kyleakurkela@gmail.com](mailto:kyleakurkela@gmail.com)  
-Phone: 631-926-5373  
-Twitter: [https://twitter.com/kyleakurkela](https://twitter.com/kyleakurkela)  
-Github: [https://github.com/kkurkela](https://github.com/kkurkela)  
-Google Scholar: [https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en)  
