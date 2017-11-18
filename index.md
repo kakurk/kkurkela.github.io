@@ -27,7 +27,9 @@ Dr. Maureen Ritchey (@ritcheym)
 Research Specialist  
 July 2016 - Present  
 
-I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab (@memobc). I am responsible for the creation and maintenance of custom analysis pipelines ([example](https://github.com/memobc/memolab-fmri-qa)), running and analyzing behavioral experiments, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) study.  
+I am currently working full time as a research assistant in Dr. Maureen Ritchey's Memory Modulation Lab (@memobc). As the lab's Research Specialist, I am responsible for the creation and maintenance of custom analysis scripts. For example, I am responsible for the maintenance of a series of scripts for the purposes of MRI data quality assurance ([example](https://github.com/memobc/memolab-fmri-qa)), the analysis of psychophysiology data, and the efficient running of single trial models.  
+
+I am also responsible for running and analyzing behavioral experiments. Currently, we are working on a series of experiments investigating the interaction of context and emotion, investigating the influence of emotion on associative memory, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) experiment to causally manipulate memory networks.  
 
 [_Cognitive Aging and Neuroimaging Laboratory_](http://canlab.la.psu.edu/)  
 Dr. Nancy Dennis  
@@ -43,7 +45,7 @@ Dr. Nathan Spreng
 Undergraduate Research Assistant  
 July 2013 - May 2014  
 
-I spent the entirety of my senior year working in Dr. Nathan Spreng's Laboratory of Brain and Cognition, where I assisted in fMRI data analysis and EEG data collection. Specifically, I ran a first level univariate analysis on an MRI experiment investigating the role of the default mode network in working memory. I also worked with other undergraduate RAs to write a MATLAB script to extract beta-estimates using the Marsbar toolbox for this project, which resulted in a conference presentation. In addition, I helped collect EEG data for a related project investigating which also investigated the default mode network's contribution to working memory.  
+I spent the entirety of my senior year working in Dr. Nathan Spreng's Laboratory of Brain and Cognition, where I assisted in fMRI data analysis and EEG data collection. Specifically, I ran a first level univariate analysis on an MRI experiment investigating the role of the default mode network in working memory. I also worked with other undergraduate RAs to write a MATLAB script to extract beta-estimates using the Marsbar toolbox for this project, which resulted in a conference presentation. In addition, I helped collect EEG data for a related project which also investigated the default mode network's contribution to working memory.  
 
 [_Memory and Neuroscience Laboratory_](https://www.human.cornell.edu/hd/research/labs/memorylab/home)  
 Dr. Charles Brainerd  
@@ -78,8 +80,6 @@ _Data Collection_
 
 ## Publications
 
-**Kurkela, K.A.**, Allen, C., & Dennis, N.A. (in prep). [The effect of cue duration on directed forgetting performance in healthy aging](https://github.com/kkurkela/CDur).  
-
 Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennavasin, A., Diaz, M.T., & Dennis, N.A. (in prep). Common neural substrates support visually guided force control and working memory in healthy older adults.   
 
 Diaz, M. T., Taber-Thomas, B, Bai, X. X., **Kurkela, K. A.**, Dennis, N. A., Perez-Edgar, K., Hillary, F. (in prep). Reliability of Functional Imaging Measurements Before and After a Siemens Scanner Upgrade.  
@@ -88,18 +88,18 @@ Diaz, M. T., Taber-Thomas, B, Bai, X. X., **Kurkela, K. A.**, Dennis, N. A., Per
 
 ## Conference Presentations
 
-Spreng, R.N., DuPre, E., Selarka, D., Garcia, J., Gojkovic, S., Mildner, J., **Kurkela, K.** & Turner, G.R. (April, 2014). Contextual relevant default network activity facilitates working memory performance. Cognitive Neuroscience Society Annual Meeting, Boston, MA, USA.  
+Samide, R., **Kurkela, K. A.**, Ritchey, M. (November 2017). Effects of contextual reinstatement on retrieval of item-emotion associations. Poster presented at the annual meeting of the Society for Neuroscience, Washington D.C., USA.  
+
+Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennavasin, A., Diaz, M.T., & Dennis, N.A. (November 2017). Common neural substrates support visually guided force control and working memory in healthy older adults. Poster presented at the annual meeting of the Society for Neuroscience, Washington D.C., USA.  
+
+Turney, I. T., **Kurkela, K.A.**, Dennis, N.A. (April, 2016). Understanding the role of perceptual relatedness to false memories in aging. Poster presented at the Cognitive Aging Conference, Atlanta, GA, USA.  
+
+**Kurkela, K.A.** & Dennis, N.A. (April, 2016). Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis. Poster presented at the Cognitive Neuroscience Society Annual Meeting, New York, NY, USA.  
 
 Venkatesan, U., Dennis, N.A., **Kurkela, K.**, & Cabeza, R (February, 2016). Neuroimaging Source Memory in
 Aging: Putting the Context Memory Deficit in Context. Poster presented at International Neuropsychological Society Annual Meeting, Boston, MA, USA.  
 
-**Kurkela, K.A.** & Dennis, N.A. (April, 2016). Event-related fMRI studies of false memory: an activation likelihood estimation meta-analysis. Poster presented at the Cognitive Neuroscience Society Annual Meeting, New York, NY, USA.  
-
-Turney, I. T., **Kurkela, K.A.**, Dennis, N.A. (April, 2016). Understanding the role of perceptual relatedness to false memories in aging. Poster presented at  the Cognitive Aging Conference, Atlanta, GA, USA.  
-
-Samide, R., **Kurkela, K. A.**, Ritchey, M. (November 2017). Effects of contextual reinstatement on retrieval of item-emotion associations. Abstract submitted for the annual meeting of the Society for Neuroscience, Washington D.C., USA.  
-
-Neely, K.A., **Kurkela, K.A.**, Goodman, J.T., Samimy, S., Blouch, S.L., Chennavasin, A., Diaz, M.T., & Dennis, N.A. (November 2017). Common neural substrates support visually guided force control and working memory in healthy older adults. Abstract submitted for the annual meeting of the Society for Neuroscience, Washington D.C., USA.  
+Spreng, R.N., DuPre, E., Selarka, D., Garcia, J., Gojkovic, S., Mildner, J., **Kurkela, K.** & Turner, G.R. (April, 2014). Contextual relevant default network activity facilitates working memory performance. Cognitive Neuroscience Society Annual Meeting, Boston, MA, USA.  
 
 ## Current Projects
 
@@ -107,7 +107,7 @@ _Effects of Emotion on Context Memory_
 This project is currently exploring the influence of emotional stimuli on memory for context, specifically when emotionally negative images are grouped together versus randomly intermixed and when the background context is shifted versus reinstated during retrieval (see [pre-registration](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d) for more information).  
 
 _Transcranial Direct Current Stimulation of Memory Networks_  
-This project is currently trying to see if it is possible to modulate item and contextual memory performance using network targeted tDCS, particularly seeing if there is an interaction with Emotion.  
+This project is currently trying to see if it is possible to modulate item and contextual memory performance using network targeted tDCS, particularly seeing if there is an interaction with the emotional valence of the memoranda.  
 
-_Effects of Emotion on Associative Memory_    
-This project is currently trying to study the influences of emotion of associative memory, specifically on overlapping associations that can be integrated into "events".  
+_Effect of Emotion on Memory for overlapping multi-element memoranda_    
+This project is currently trying to study the influences of emotion of associative memory, specifically on overlapping associations that can be integrated into events engrams.  
