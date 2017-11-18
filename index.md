@@ -12,9 +12,11 @@ Google Scholar: [scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://s
 
 ## Biography
 
-I graduated from Cornell University in 2014 with a degree in Human Development with a concentration in Developmental Behavioral Neuroscience. I am interested in studying the cognitive neuroscience of memory. Within memory, I am particularly interested in the study of false memory, associative memory, emotional and contextual influences, and event cognition. I am interested in the study of the neural correlates of these phenomena using non-invasive techniques such as fMRI, EEG, and tDCS.  
+I graduated from Cornell University in 2014 with a B.S. in Human Development with a concentration in Behavioral Neuroscience. After graduation, I spent four years researching the neural correlates of various memory phenomena.  
 
-I also have a particularly strong interest in helping to solve the replicability "crisis" in psychological science. I am interested in the use of pre-registrations ([example](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)), open data, and open source, version controlled code ([examples](https://github.com/kkurkela)) to increase replicability in psychology and cognitive neuroscience.  
+I am generally interested in studying the cognitive neuroscience of memory. Within memory, I am particularly interested in the study of false memory (What are the neural mechanisms that support the false endorsement of having seen an item previously? Can there be multiple neural mechanisms that support this phenomena?), associative memory (We often do not encounter and need to recall _single_ elements, but often more complex, multi-element events. What brain areas differentially support memory for associative, multi-element memoranda?), emotional and contextual influences on memory (How does emotional valence and arousal of an event impact the neural architecture that supports memory? How does this modulation interact with memory for peripheral, associative details?), and event cognition (Our world is inherently continuous, but our memory of it is segmented. How is this the case? How does the brain segment this continuous stream of sensory information and store it for later recall?). To examine the neural correlates of these phenomena, I use non-invasive techniques such as fMRI, EEG, and tDCS.  
+
+Additionally, I am dedicated to advancing responsible research practices in order to address the replicability "crisis" in psychological and cognitive science. Therefore, I promote the use of pre-registrations ([example](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)), open data, and open source, version controlled code ([examples](https://github.com/kkurkela)) to increase replicability and encourage open science.  
 
 Outside of the lab I love to ski, play soccer, run, read a good book, and I am an avid soccer fan (Barclay's Premier League, USMNT, USWNT).  
 
@@ -25,30 +27,30 @@ Dr. Maureen Ritchey (@ritcheym)
 Research Specialist  
 July 2016 - Present  
 
-I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab (@memobc). I am responsible for the creation and maintenance of custom analysis pipelines ([example](https://github.com/memobc/memolab-fmri-qa)), running and analyzing behavioral experiments, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) study.
+I am currently working full time as a research specialist in Dr. Maureen Ritchey's Memory Modulation Lab (@memobc). I am responsible for the creation and maintenance of custom analysis pipelines ([example](https://github.com/memobc/memolab-fmri-qa)), running and analyzing behavioral experiments, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) study.  
 
 [_Cognitive Aging and Neuroimaging Laboratory_](http://canlab.la.psu.edu/)  
 Dr. Nancy Dennis  
 Laboratory Manager  
 July 2014 - July 2016  
 
-I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an [NSF funded study on false memory in aging](http://dx.doi.org/10.1016/j.neurobiolaging.2017.10.020). In addition, I was able to work with Dr. Dennis and others on: 1.) [a activation likelihood estimation meta-analysis on false memory](http://www.sciencedirect.com/science/article/pii/S0028393215302463), 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center, 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control, 4.) a new analysis of an old dataset on source memory in aging, and finally 5.) writing up a previously completed experiment on directed forgetting in aging.
+I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting, budgeting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an [NSF funded study on false memory in aging](http://dx.doi.org/10.1016/j.neurobiolaging.2017.10.020). In addition, I was able to work with Dr. Dennis and others on: 1.) [a meta-analysis on the neural correlates supporting false memory](http://www.sciencedirect.com/science/article/pii/S0028393215302463), 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center, 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control, and 4.) a new analysis of an old dataset on source memory in aging.  
 
-I also presently serve as a part-time methods/programming consultant for the lab, assisting with the maintenance and writing of stimulus presentation ([example](https://github.com/kkurkela/ICEE)) and fMRI preprocessing and analysis code ([example](https://github.com/kkurkela/FAME-RSA)).
+I also presently serve as a part-time methods/programming consultant for the CAN lab, assisting with the maintenance and writing of stimulus presentation ([example](https://github.com/kkurkela/ICEE)) and fMRI preprocessing and analysis code ([example](https://github.com/kkurkela/FAME-RSA)).  
 
 [_Laboratory of Brain and Cognition_](http://lbc.human.cornell.edu/Home.html)  
 Dr. Nathan Spreng  
 Undergraduate Research Assistant  
 July 2013 - May 2014  
 
-I spent the entirety of my senior year working in Dr. Nathan Spreng's Laboratory of Brain and Cognition, where I assisted in data analysis and data collection. Specifically, I ran a first level model on 25 subjects the lab collected using SPM's batch editor GUI. I also worked with other undergraduate RAs to write a MATLAB script to extract beta-estimates using the Marsbar toolbox. I also helped collect EEG data.  
+I spent the entirety of my senior year working in Dr. Nathan Spreng's Laboratory of Brain and Cognition, where I assisted in fMRI data analysis and EEG data collection. Specifically, I ran a first level univariate analysis on an MRI experiment investigating the role of the default mode network in working memory. I also worked with other undergraduate RAs to write a MATLAB script to extract beta-estimates using the Marsbar toolbox for this project, which resulted in a conference presentation. In addition, I helped collect EEG data for a related project investigating which also investigated the default mode network's contribution to working memory.  
 
 [_Memory and Neuroscience Laboratory_](https://www.human.cornell.edu/hd/research/labs/memorylab/home)  
 Dr. Charles Brainerd  
 Undergraduate Research Assistant  
 January 2014 - May 2014  
 
-I spent the last semester of my senior year working in Dr. Charles Brainerd's Memory and Neuroscience Lab. While in lab, I was put on a project where I was asked to figure out how to use multiple imputation in SPSS to analyze a large online experiment with lots of missing data. I also took part in a weekly directed reading led by Dr. Brainerd on Memory and Aging.  
+I spent the last semester of my senior year working in Dr. Charles Brainerd's Memory and Neuroscience Lab. While in lab, I was put on a project where I was asked to figure out how to use multiple imputations in SPSS to analyze a large online experiment examining the use of "gist" information in decision making with lots of missing data. I also took part in a weekly directed reading led by Dr. Brainerd on Memory and Aging.  
 
 [_Personality, Attachment, and Control Laboratory_](http://people.psych.cornell.edu/~pac_lab/)  
 Dr. Vivian Zayas  
@@ -60,7 +62,7 @@ I spent my junior and senior years working in the PAC lab, where I held the titl
 ## Skills
 
 _Programming Languages_  
-**Fluent**: MATLAB, R/RStudio  
+**Fluent**: MATLAB, R  
 **Proficient**: Unix Bash Shell Scripting, Javascript  
 **Familiar**: Python  
 
@@ -72,7 +74,7 @@ _Software_
 _Data Collection_  
 **Fluent**: functional magnetic resonance imaging (fMRI)  
 **Proficient**: electroencephalography (EEG)   
-**Familiar**: transcranial direct current (tDCS) stimulation,  skin conductance response (SCR)  
+**Familiar**: transcranial direct current (tDCS) stimulation, skin conductance response (SCR)  
 
 ## Publications
 
