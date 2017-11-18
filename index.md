@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="headshot.jpg" alt="Headshot" height = 50%/>
+  <img src="headshot.jpg" alt="Headshot"/>
 </p>
 
 ## Contact
