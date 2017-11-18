@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kkurkela.jpeg" alt="Headshot"/>
+  <img src="headshot.jpg" alt="Headshot"/>
 </p>
 
 ## Contact
