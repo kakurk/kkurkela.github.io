@@ -29,14 +29,14 @@ July 2016 - Present
 
 I am currently working full time in Dr. Maureen Ritchey's Memory Modulation Lab (@memobc). As the lab's Research Specialist, I am responsible for the creation and maintenance of custom analysis scripts. For example, I am responsible for the maintenance of a series of scripts for the purposes of MRI data quality assurance ([example](https://github.com/memobc/memolab-fmri-qa)), the analysis of psychophysiology data, and the efficient running of single trial models.  
 
-I am also responsible for running various memory experiments. Currently, we are working on a series of experiments investigating the interaction of context and emotion on memory, investigating the influence of emotion on associative memory, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) experiment to causally manipulate memory networks.  
+I am also responsible for running various memory experiments. Currently, we are working on a series of experiments investigating the interaction of context and emotion on memory, investigating the influence of emotion on associative memory, as well as developing a protocol for running a new transcranial direct current stimulation (tDCS) experiment to manipulate memory networks.  
 
 [_Cognitive Aging and Neuroimaging Laboratory_](http://canlab.la.psu.edu/)  
 Dr. Nancy Dennis  
 Laboratory Manager  
 July 2014 - July 2016  
 
-I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting, budgeting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an [NSF funded study on neural correlates of false memory in aging](http://dx.doi.org/10.1016/j.neurobiolaging.2017.10.020). In addition, I was able to work with Dr. Dennis and others on: 1.) [a meta-analysis on the neural correlates supporting false memory](http://www.sciencedirect.com/science/article/pii/S0028393215302463), 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center, 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control, and 4.) a new analysis of an old dataset on source memory in aging.  
+I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting, budgeting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an [NSF funded study on neural correlates of false memory in aging](http://dx.doi.org/10.1016/j.neurobiolaging.2017.10.020). In addition, I was able to work with Dr. Dennis and others on: 1.) [a meta-analysis on the neural correlates supporting false memory](http://www.sciencedirect.com/science/article/pii/S0028393215302463), 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center, 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control, and 4.) a new analysis of a dataset on source memory in aging.  
 
 I also presently serve as a part-time methods/programming consultant for the CAN lab, assisting with the maintenance and writing of stimulus presentation ([example](https://github.com/kkurkela/ICEE)) and fMRI preprocessing and analysis code ([example](https://github.com/kkurkela/FAME-RSA)).  
 
@@ -103,11 +103,11 @@ Spreng, R.N., DuPre, E., Selarka, D., Garcia, J., Gojkovic, S., Mildner, J., **K
 
 ## Current Projects
 
-_Effects of Emotion on Context Memory_    
-This project is currently exploring the influence of emotional stimuli on memory for context, specifically when emotionally negative images are grouped together versus randomly intermixed and when the background context is shifted versus reinstated during retrieval (see [pre-registration](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d) for more information).  
+_Interaction of Emotion and Context on Memory_    
+My colleagues and I am currently exploring the interaction of emotion and context on memory, specifically when the background context is shifted versus reinstated during retrieval (see [pre-registration](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)).  
 
 _Transcranial Direct Current Stimulation of Memory Networks_  
-This project is currently trying to see if it is possible to modulate item and contextual memory performance using network targeted tDCS, particularly seeing if there is an interaction with the emotional valence of the memoranda.  
+My colleagues and I are also currently seeing if it is possible to modulate memory performance using network targeted tDCS. Specifically, we are interested in investigating if targeting the posterior-medial memory network will modulate the impact of contextual reinstatement on memory performance.  
 
 _Effect of Emotion on Memory for overlapping multi-element memoranda_    
-This project is currently trying to study the influences of emotion of associative memory, specifically on overlapping associations that can be integrated into events engrams.  
+I am also working on developing a study to examine the influences of emotion on associative memory, specifically on overlapping associations that can be integrated into events engrams.  
