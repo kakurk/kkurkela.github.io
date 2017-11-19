@@ -109,5 +109,5 @@ My colleagues and I am currently exploring the interaction of emotion and contex
 _Transcranial Direct Current Stimulation of Memory Networks_  
 My colleagues and I are also currently seeing if it is possible to modulate memory performance using network targeted tDCS. Specifically, we are interested in investigating if targeting the posterior-medial memory network will modulate the impact of contextual reinstatement on memory performance.  
 
-_Effect of Emotion on Memory for overlapping multi-element memoranda_    
+_Effect of Emotion on Memory for Overlapping Multi-element Memoranda_    
 I am also working on developing a study to examine the influences of emotion on associative memory, specifically on overlapping associations that can be integrated into events engrams.  
