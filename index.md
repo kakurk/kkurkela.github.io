@@ -4,17 +4,17 @@
 
 ## Contact
 
-Email: [kyleakurkela@gmail.com](mailto:kyleakurkela@gmail.com)  
-Phone: 631-926-5373  
-Twitter: [twitter.com/kyleakurkela](https://twitter.com/kyleakurkela)  
-Github: @kkurkela (personal), @kakurk (Boston College)  
-Google Scholar: [scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en)  
+**Email:** [kyleakurkela@gmail.com](mailto:kyleakurkela@gmail.com)  
+**Phone:** 631-926-5373  
+**Twitter:** [twitter.com/kyleakurkela](https://twitter.com/kyleakurkela)  
+**Github:** @kkurkela (personal), @kakurk (Boston College)  
+**Google Scholar:** [scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en](https://scholar.google.com/citations?user=eWP1fJ8AAAAJ&hl=en)  
 
 ## Biography
 
 I graduated from Cornell University in 2014 with a B.S. in Human Development with a concentration in Behavioral Neuroscience. After graduation, I spent four years researching the neural correlates of various memory phenomena.  
 
-I am generally interested in studying the cognitive neuroscience of memory. Within memory, I am particularly interested in the study of false memory (What are the neural mechanisms that support the false endorsement of having seen an item previously? Can there be multiple neural mechanisms that support this phenomena?), associative memory (We often do not encounter and need to recall _single_ elements, but often more complex, multi-element events. What brain areas differentially support memory for associative, multi-element memoranda?), emotional and contextual influences on memory (How does emotional valence and arousal of an event impact the neural architecture that supports memory? How does this modulation interact with memory for peripheral, associative details?), and event cognition (Our world is inherently continuous, but our memory of it is segmented. How is this the case? How does the brain segment this continuous stream of sensory information and store it for later recall?). To examine the neural correlates of these phenomena, I use non-invasive techniques such as fMRI, EEG, and tDCS.  
+I am generally interested in studying the cognitive neuroscience of memory. Within memory, I am particularly interested in the study of false memory (What are the neural mechanisms that support the false endorsement of having seen an item previously? Can there be multiple neural mechanisms that support this phenomenon?), associative memory (We often do not need to recall _single_ elements, but more complex, multi-element events. What brain areas support memory for associative, multi-element memoranda?), emotional and contextual influences on memory (How does the emotional valence and arousal of an event impact the neural architecture that supports memory? How does this modulation interact with memory for peripheral, associative details?), and event cognition (Our world is inherently continuous, but our memory of it is segmented. How is this the case? How does the brain segment this continuous stream of sensory information and store it for later recall?). To examine the neural correlates of these phenomena, I use non-invasive techniques such as fMRI, EEG, and tDCS.  
 
 Additionally, I am dedicated to advancing responsible research practices in order to address the replicability "crisis" in psychological and cognitive science. Therefore, I promote the use of pre-registrations ([example](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)), open data, and open source, version controlled code ([examples](https://github.com/kkurkela)) to increase replicability and encourage open science.  
 
