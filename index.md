@@ -76,7 +76,7 @@ _Software_
 _Data Collection_  
 **Fluent**: functional magnetic resonance imaging (fMRI)  
 **Proficient**: electroencephalography (EEG)   
-**Familiar**: transcranial direct current (tDCS) stimulation, skin conductance response (SCR)  
+**Familiar**: transcranial direct current stimulation (tDCS), skin conductance response (SCR)  
 
 ## Publications
 
