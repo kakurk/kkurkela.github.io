@@ -36,7 +36,7 @@ Dr. Nancy Dennis
 Laboratory Manager  
 July 2014 - July 2016  
 
-I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting, budgeting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an [NSF funded study on neural correlates of false memory in aging](http://dx.doi.org/10.1016/j.neurobiolaging.2017.10.020). In addition, I was able to work with Dr. Dennis and others on: 1.) [a meta-analysis on the neural correlates supporting false memory](http://www.sciencedirect.com/science/article/pii/S0028393215302463), 2.) a large experiment on the data quality before and after a scanner upgrade at Penn State's imaging center, 3.) a cross-lab collaborative study on the common neural correlates of working memory and motor control, and 4.) a new analysis of a dataset on source memory in aging.  
+I spent two years as the laboratory manager for Dr. Nancy Dennis' CAN Lab. In addition to administrative responsibilities (e.g., NSF Grant reporting, budgeting), I was responsible for the collection of an entire sample of older adults (ages 60+) for an [NSF funded study on the neural correlates of false memory in aging](http://dx.doi.org/10.1016/j.neurobiolaging.2017.10.020). In addition, I was able to work with Dr. Dennis and others on: 1.) [a meta-analysis on the neural correlates supporting false memory](http://www.sciencedirect.com/science/article/pii/S0028393215302463), 2.) a large experiment on data quality before and after a scanner upgrade at Penn State's imaging center, 3.) a collaborative study on the common neural correlates of working memory and motor control in aging, and 4.) a new analysis of a dataset on source memory in aging.  
 
 I also presently serve as a part-time methods/programming consultant for the CAN lab, assisting with the maintenance and writing of stimulus presentation ([example](https://github.com/kkurkela/ICEE)) and fMRI preprocessing and analysis code ([example](https://github.com/kkurkela/FAME-RSA)).  
 
@@ -59,7 +59,7 @@ Dr. Vivian Zayas
 Co-Head EEG Research Assistant  
 September 2012 - May 2014  
 
-I spent my junior and senior years working in the PAC lab, where I held the title of Co-Head EEG RA. In the PAC lab, I served as a confederate in a variety of behavioral psychology experiments, specifically in studies looking at social exclusion using the odd-ball paradigm. I was also in charge of scheduling and running EEG participants, maintaining the EEG equipment, rejecting artifactual components using ICA, and for training other RAs to run EEG experiments.  
+I spent my junior and senior years working in the PAC lab, where I held the title of Co-Head EEG RA. In the PAC lab, I served as a confederate in a variety of psychology experiments, specifically in studies looking at social exclusion using the odd-ball paradigm. I was also in charge of scheduling and running EEG participants, maintaining the EEG equipment, rejecting artifactual components using ICA, and for training other RAs to run EEG experiments.  
 
 ## Skills
 
