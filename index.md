@@ -104,7 +104,7 @@ Spreng, R.N., DuPre, E., Selarka, D., Garcia, J., Gojkovic, S., Mildner, J., **K
 ## Current Projects
 
 _Interaction of Emotion and Context on Memory_    
-My colleagues and I am currently exploring the interaction of emotion and context on memory, specifically when the background context is shifted versus reinstated during retrieval (see [pre-registration](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)).  
+My colleagues and I are currently exploring the interaction of emotion and context on memory, specifically when the background context is shifted versus reinstated during retrieval (see [pre-registration](https://osf.io/jmg6b/?view_only=fe2c93deb2b74481997b18359fb7c84d)).  
 
 _Transcranial Direct Current Stimulation of Memory Networks_  
 My colleagues and I are also currently seeing if it is possible to modulate memory performance using network targeted tDCS. Specifically, we are interested in investigating if targeting the posterior-medial memory network will modulate the impact of contextual reinstatement on memory performance.  
